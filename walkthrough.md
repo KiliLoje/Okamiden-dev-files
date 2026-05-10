@@ -33,3 +33,5 @@ For cheevos in this part... well perhaps I could base the progression cheevos of
 | Issun M1.4 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
 | Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
 | Dragon Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+
+Same as the previous part, this is still very early game and it doesn't seems to be anything to do beside following the story. I guess you could have a cheevo for both Michigami and Tachigami but beside that I don't really see anything very interesting.

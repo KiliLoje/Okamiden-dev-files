@@ -6,23 +6,30 @@ Some annotation will be made every time I feel like something could be cheevos m
 ### Spirits
 | name | found | memory |
 | ------------- | -------------- | -------------- |
-| Yomigami | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
-> [!NOTE]
-> I found the memory for the written tutorials you unlock upon getting Yomigami, but not for an actual Yomigami flag, if such a thing exists
-
+| Yomigami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Michigami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Tachigami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 --- 
 
 ## Part One: The Beginning \[PO1\]
-| name | found | memory |
-| ------------- | -------------- | -------------- |
-| Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Holy Bone S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Stray Bead | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Issun M1.1 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Issun M1.2 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Holy Bone S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Stray Bead | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Issun M1.1 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Issun M1.2 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
 
 About the difficulty, I don't think I'm going to restrict the difficulty for this set. I played a few hours in Old Hand and never felt like I was running out of Ink. But I don't know, I would need the opinion of other people about this.   
 <br>
 For cheevos in this part... well perhaps I could base the progression cheevos off of the spirits unlock, and therefore have a cheevo for unlocking Yomigami. I'll have to check how the Okami set handle progression. other than that I don't really see anything. It's a very early and short part of the game anyway.
+
+## Part Two: Training \[P02\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Issun M1.3 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Issun M1.4 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Dragon Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |

@@ -99,7 +99,6 @@ Ok, as frustrating as it is, I couldn't find the Bear Carving on this part. I'm 
 Achievement wise, There's two manifests, a Brush Technique, and the first Yakushi Migrant : the Lost Girl
 
 ## Part Five: Exploration \[P05\]
-
 | name | found | item memory | chest memory |
 | ------------- | -------------- | -------------- | ------------- |
 | Holy Icon 4 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
@@ -120,3 +119,13 @@ There's quite a lot going on in this part even if it's a small one.
 - We finish Issun Masterpiece 1
 
 And, we found the Bear Carving from the last part, apparently the Inn open after a certain number of migrants arrive.
+
+## Part Six: Demon Disguises \[P06\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Line | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.3 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.4 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Float | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+Ok, small part (still took me 1h30 lol, I'll never be done with this game) there's one boss, I find her way more challenging than the last boss, even if she's still quite easy to beat.

@@ -97,3 +97,26 @@ Challenge wise, that boss doesn't really have anything interesting. I could go f
 Ok, as frustrating as it is, I couldn't find the Bear Carving on this part. I'm suspecting the OP of the GameFAQs guide to have made the guide while in NG+ since they also stated that the Blacksmith should be open which wasn't the case for me.
 
 Achievement wise, There's two manifests, a Brush Technique, and the first Yakushi Migrant : the Lost Girl
+
+## Part Five: Exploration \[P05\]
+
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Holy Icon 4 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M1.9 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Lucky Coin | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Bear Carving | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Ammy Toy | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Exorcism | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.1 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Bear Carving | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.2 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| History Scroll 1 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+There's quite a lot going on in this part even if it's a small one. 
+- We get a wapping TWO new Yakushi migrants : The Monkey in Hana valley, and the Crane near Agata Entrance.
+- The Lucky Coin is missable, and if I understand it well, those are very important items
+- We finish the Holy Icon manifest
+- We finish Issun Masterpiece 1
+
+And, we found the Bear Carving from the last part, apparently the Inn open after a certain number of migrants arrive.

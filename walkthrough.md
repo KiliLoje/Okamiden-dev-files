@@ -144,7 +144,7 @@ Ok, small part (still took me 1h30 lol, I'll never be done with this game) there
 | Lucky Coin | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Issun M2.6 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Snake Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Spirit Ink S | <ul><li> - [ ] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Spirit Ink S | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 I forgot to note down some of the chests with Left Arms or door keys in them.
 

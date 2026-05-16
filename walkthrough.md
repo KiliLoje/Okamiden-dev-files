@@ -150,6 +150,6 @@ I forgot to note down some of the chests with Left Arms or door keys in them.
 
 Quite the long part
 - There's two Celestial Brush Techniques
-- There's a point of no return in this part, I don't know if you can come back to Agata forest or not. Time will tell. Anyways, all chests fromù the pagola are missable because of that
+- There's a point of no return in this part, I don't know if you can come back to Agata forest or not. Time will tell. Anyways, all chests from the pagoda are missable because of that
 - We unlock a new weapon : Tsumugari
 - The boss was quite easy after reading the guide, I got the cherry tree rank on my first try

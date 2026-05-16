@@ -11,6 +11,8 @@ Some annotation will be made every time I feel like something could be cheevos m
 | Tachigami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Sakigami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Bakugami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Nuregami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Tsutagami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 --- 
 
@@ -129,3 +131,25 @@ And, we found the Bear Carving from the last part, apparently the Inn open after
 | Float | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 Ok, small part (still took me 1h30 lol, I'll never be done with this game) there's one boss, I find her way more challenging than the last boss, even if she's still quite easy to beat.
+
+## Part Seven: Pagoda Diving \[P07\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Pole | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Lure | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Buddha Carv. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Sinker | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.5 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Monkey Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Lucky Coin | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.6 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Snake Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Spirit Ink S | <ul><li> - [ ] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+
+I forgot to note down some of the chests with Left Arms or door keys in them.
+
+Quite the long part
+- There's two Celestial Brush Techniques
+- There's a point of no return in this part, I don't know if you can come back to Agata forest or not. Time will tell. Anyways, all chests fromù the pagola are missable because of that
+- We unlock a new weapon : Tsumugari
+- The boss was quite easy after reading the guide, I got the cherry tree rank on my first try

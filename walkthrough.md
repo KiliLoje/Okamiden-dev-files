@@ -171,3 +171,17 @@ Quite the long part
 | Ammy Toy | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 Nothing much to say here, you can recrute a pheasant, and there's a sapling tree to bloom.
+
+### Sei'an: Commoners' Quarter \[P08.2\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Funny Mask | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Scroll | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Kabuki Doll | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M3.1 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| History Scroll 2 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Rodent Fig. | <ul><li> - [ ] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+
+Not much happens there, you get a new partner, there's 3 new Yakushi Migrants available, a Boy, an Old Woman, and a Retired Fisherman.
+You also get the Priestess Rao's Treasures manifest.
+I didn't get the Rodent Fig. yet because it requires to go back to Yakushi village and I was lazy knowing that I would go back to it at some point anyway.

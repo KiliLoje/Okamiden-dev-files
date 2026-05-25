@@ -13,6 +13,7 @@ Some annotation will be made every time I feel like something could be cheevos m
 | Bakugami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Nuregami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Tsutagami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Moegami | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 --- 
 
@@ -185,3 +186,15 @@ Nothing much to say here, you can recrute a pheasant, and there's a sapling tree
 Not much happens there, you get a new partner, there's 3 new Yakushi Migrants available, a Boy, an Old Woman, and a Retired Fisherman.
 You also get the Priestess Rao's Treasures manifest.
 I didn't get the Rodent Fig. yet because it requires to go back to Yakushi village and I was lazy knowing that I would go back to it at some point anyway.
+
+## Part Nine: Audience Participation \[P09\]
+### Playhouse - First Floor and Basement 1 \[P09.1\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Issun M3.3 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Kabuki Doll | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Ammy Toy | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Funny Mask | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Lacquerware | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+There's a new brush technique : Inferno (moegami)

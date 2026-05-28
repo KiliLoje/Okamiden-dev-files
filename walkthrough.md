@@ -198,3 +198,14 @@ I didn't get the Rodent Fig. yet because it requires to go back to Yakushi villa
 | Lacquerware | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 There's a new brush technique : Inferno (moegami)
+
+### Playhouse - Second Floor \[P09.2\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Rooster Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M3.4 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Lucky Coin | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+A lucky coin is always interesting, there seems to be a limited amount of them in the game so rewarding players for getting them might be a good idea.
+The boss was surprisingly hard, I only did one attempt tho. The tree ranks in okamiden are way less restrictive than in okami, I lost so much solar units and still ended up with a green tree for damage.
+Other than that, not much to say.

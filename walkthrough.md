@@ -1,6 +1,6 @@
 # Walkthrough
 
-This will be used a progression tracker for the game, based on the following [gamefaqs guide](https://gamefaqs.gamespot.com/ds/971937-okamiden/faqs/62214)   
+This will be used as a progression tracker for the game, based on the following [gamefaqs guide](https://gamefaqs.gamespot.com/ds/971937-okamiden/faqs/62214)   
 I will be using tables to note down every items in each sections so I can track which one I haven't found yet.   
 Some annotation will be made every time I feel like something could be cheevos material, and I will also mark down all challenges idea I get along the way while I play  
 ### Spirits
@@ -181,11 +181,10 @@ Nothing much to say here, you can recrute a pheasant, and there's a sapling tree
 | Kabuki Doll | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | Issun M3.1 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 | History Scroll 2 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
-| Rodent Fig. | <ul><li> - [ ] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Rodent Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
 
 Not much happens there, you get a new partner, there's 3 new Yakushi Migrants available, a Boy, an Old Woman, and a Retired Fisherman.
 You also get the Priestess Rao's Treasures manifest.
-I didn't get the Rodent Fig. yet because it requires to go back to Yakushi village and I was lazy knowing that I would go back to it at some point anyway.
 
 ## Part Nine: Audience Participation \[P09\]
 ### Playhouse - First Floor and Basement 1 \[P09.1\]
@@ -209,3 +208,17 @@ There's a new brush technique : Inferno (moegami)
 A lucky coin is always interesting, there seems to be a limited amount of them in the game so rewarding players for getting them might be a good idea.
 The boss was surprisingly hard, I only did one attempt tho. The tree ranks in okamiden are way less restrictive than in okami, I lost so much solar units and still ended up with a green tree for damage.
 Other than that, not much to say.
+
+### Sei'an: Commoners' Quarter \[P09.3\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Lacquerware | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M3.2 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M2.10 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Divine Sake M | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Gold Pot | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+You finish Issun Masterpiece 2, you can recruit the Sake Brewer.
+notable thing : there's Mr. Flower side quest which require to bloom all trees in the Commoner's quarters. I don't know if I will make achievements for pleasing every NPCs, but some I can do for sure. for example the laundry pole or the brewing bucket that you can repair in the early game.
+I still need to decide how I am going to handle achievements for the Yakushi migrants, like if the achievement is going to be reruiting them, or welcoming them in the village after recruiting them.
+The former seems more intuitive, but the latter is more interesting since they give you some XP after you welcome them, so on a content coverage viewpoint, it would be better to do that.

@@ -222,3 +222,16 @@ You finish Issun Masterpiece 2, you can recruit the Sake Brewer.
 notable thing : there's Mr. Flower side quest which require to bloom all trees in the Commoner's quarters. I don't know if I will make achievements for pleasing every NPCs, but some I can do for sure. for example the laundry pole or the brewing bucket that you can repair in the early game.
 I still need to decide how I am going to handle achievements for the Yakushi migrants, like if the achievement is going to be reruiting them, or welcoming them in the village after recruiting them.
 The former seems more intuitive, but the latter is more interesting since they give you some XP after you welcome them, so on a content coverage viewpoint, it would be better to do that.
+
+### Sei'an: Aristocratic Quarter \[P09.4\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| History Scroll 3 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Ammy Toy | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Holy Arrow | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Dog Fig. | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Lacquerware | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+| Issun M4.3 | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+New weapon : Devout Beads   
+Very small part, essentially just opening chests. nothing much to say here.

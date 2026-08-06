@@ -235,3 +235,14 @@ The former seems more intuitive, but the latter is more interesting since they g
 
 New weapon : Devout Beads   
 Very small part, essentially just opening chests. nothing much to say here.
+
+### Sei'an AQ/CQ, S.R.C. \[P10.1\]
+| name | found | item memory | chest memory |
+| ------------- | -------------- | -------------- | ------------- |
+| Divine Sake | <ul><li> - [ ] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [ ] </li></ul> |
+| Wooden Block | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> | <ul><li> - [x] </li></ul> |
+
+One Yakushi migrant is gathered : Yaku in a restaurant near the Commoner's Quarter entrance.
+Apparently I need 6 migrants to unlock the Hot Spring in which the Divine Sake is located but I only have 6 right now which is weird since I've been following the walkthrough super thouroughly.
+
+The Roa's Treasures manfiest is finished.
